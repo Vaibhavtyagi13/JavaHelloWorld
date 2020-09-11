@@ -1,3 +1,3 @@
 # JavaHelloWorld
 Hello World Program
-and trigger build using webhooks
+and build using webhooks
